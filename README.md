@@ -5,7 +5,7 @@ First install npm packages:<br><br>
 Adding a note :<br><br>
 `node app.js add --title="sleeping" --body="go to bed"`<br><br>
 Removing a note :<br><br>
-`node app.js add --title="sleeping"`<br><br>
+`node app.js remove --title="sleeping"`<br><br>
 Listing notes :<br><br>
 `node app.js list`<br><br>
 Reading a note :<br><br>
